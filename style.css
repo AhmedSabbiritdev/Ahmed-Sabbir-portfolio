@@ -85,3 +85,18 @@ footer p {
 .experiences {
     margin-left: 5%;
 }
+
+.you-might-saw {
+    text-align: justify;
+    margin-bottom: 5%;
+}
+
+h1.welcome-to {
+    margin-bottom: 0%;
+    line-height: 0;
+    margin-top: 27%;
+}
+
+h1.ahmed-sabbir {
+    line-height: 0;
+}
