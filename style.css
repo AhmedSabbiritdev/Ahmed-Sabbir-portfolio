@@ -18,7 +18,8 @@ h2 {
 
 .flexible-container {
     display: flex;
-    margin-bottom: 150px;
+    /* margin-bottom: 150px; */
+    border: 1px solid black;
 }
 
 .half-width {
@@ -110,4 +111,16 @@ img.top-right-photo {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+img.middle-right-photo {
+    position: absolute;
+    width: 65%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.gurde-of-dream-big {
+    margin-top: 39%;
 }
