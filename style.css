@@ -125,7 +125,8 @@ img.middle-right-photo {
     margin-top: 39%;
 }
 
-.top-img {
+.top-img img {
     width: 100%;
-    height: auto;
+    height: 100vh;
+    
 }
