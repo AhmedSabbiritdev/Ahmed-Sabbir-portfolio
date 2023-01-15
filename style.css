@@ -12,8 +12,13 @@ h2 {
     font-size: 40px;
 }
 
+/* .orange-color {
+    color: orange;
+} */
+
 .orange-color {
     color: orange;
+    line-height: 15px;
 }
 
 .flexible-container {
